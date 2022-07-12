@@ -1,5 +1,12 @@
-1
-2
-3
-4
-
+{
+   "name":"Irina",
+   "age":36,
+   "cat":{
+      "name1":"Polli",
+      "age":5
+   }{
+      "children":"Emmanuel",
+      "age1":1.5,
+      "maried":true,
+      "dog":null
+   }
